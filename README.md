@@ -1,5 +1,6 @@
 # SlmWww2
 
+Nueva pagina web para la Biblia Sion Leche y Miel, en la cual se encontrara información sobre el proyecto, sobre la aplicaicon movil y permitira usuarios leer la aplicación desde la WEB.
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.4.
 
 ## Development server

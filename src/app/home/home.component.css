@@ -1,0 +1,8 @@
+.logo {
+    width: 60px; /* Ajusta según el tamaño del logo */
+    height: auto;  /* Mantiene la proporción */
+  }
+
+.navbar-collapse {
+justify-content: center; /* Centra el contenido de la barra de navegación */
+}
